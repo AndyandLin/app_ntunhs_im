@@ -17,7 +17,6 @@ class MainActivity : AppCompatActivity() {
         val guess_button = findViewById<Button>(R.id.guess_button)
         val reset_button = findViewById<Button>(R.id.reset_button)
         val editText = findViewById<EditText>(R.id.editText)
-        var validate_num:Int
 
         var minRange : Int = 1              // 先設定 最小值 與 最大值
         var maxRange : Int = 100            // 之後會將 最小值 最大值 當成 範圍標準
