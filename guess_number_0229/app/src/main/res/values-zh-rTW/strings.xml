@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">猜數字!</string>
+    <string name="please_guess_number_at_0_100">請從0-100中猜一個數字</string>
+    <string name="guess">猜數字</string>
+    <string name="reset">重置</string>
+</resources>
