@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">hw3</string>
+    <string name="id">ID:</string>
+    <string name="password">PassWord:</string>
+    <string name="name">Name:</string>
+    <string name="birthday">Birthday:</string>
+    <string name="gender">Gender:</string>
+    <string name="venicle">Venicle:</string>
+    <string name="send">Send</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
